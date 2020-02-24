@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url(backgr.jpg);
+}
+
+#clock {
+	display: flex;
+	justify-content: center;
+	margin-top: 260px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	letter-spacing: 5px;
+	font-size: 6em;
+}
